@@ -1,0 +1,22 @@
+# NAME: private rule list
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-06-06 09:17:34
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 5
+# TOTAL: 6
+DOMAIN-SUFFIX,10044.cn
+#DOMAIN-SUFFIX,hainanairlines.com
+DOMAIN-SUFFIX,hnacargo.com
+DOMAIN-SUFFIX,hnair.com
+DOMAIN-SUFFIX,hnair.net
+DOMAIN-SUFFIX,hna.net
+DOMAIN-KEYWORD,hnagroup
+DOMAIN-SUFFIX,flyert.com
+DOMAIN-SUFFIX,flyertrip.com
+DOMAIN-SUFFIX,traingo.cn
+DOMAIN-KEYWORD,spdb
+DOMAIN-SUFFIX,95528.cn
+DOMAIN-SUFFIX,95504.net
+DOMAIN-SUFFIX,95504.net
+DOMAIN-SUFFIX,petrochina.com.cn
