@@ -4,7 +4,6 @@
 
 这里是一系列好用的Shadowrocket规则，针对 [Shadowrocket](https://liguangming.com/Shadowrocket) 开发，支持广告过滤。规则定义了哪些网站可以直连，哪些必须走代理，规则是一个纯文本文件，无法提供魔法上网功能。使用 Python 按照一定的规则和模板定期自动生成，并且使用开源的力量，集众人之力逐渐完善。
 
-**正在使用手机浏览本页面的用户 [请点击这里](https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever) ，查看完整的说明文档。**
 
 **本规则具有以下特点：**
 
@@ -30,6 +29,3 @@
 - [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)
 - [LOWERTOP/Shadowrocket](https://github.com/LOWERTOP/Shadowrocket)
 
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/Johnshall/Shadowrocket-ADBlock-Rules-Forever.svg)](https://starchart.cc/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
